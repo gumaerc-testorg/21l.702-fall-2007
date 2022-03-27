@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b68a4d4a-3b3b-4cbf-42a9-de5718ead455
 resourcetype: Document
 title: Pearl and Chillingworth, Angel and Devil
 uid: 139c1779-9a65-d2b1-e803-79e8dbe9bc1f

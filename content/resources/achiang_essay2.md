@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b68a4d4a-3b3b-4cbf-42a9-de5718ead455
 resourcetype: Document
 title: 'Incidents in the Life of a Slave Girl: Addressing Emancipation and Its Societal
   Implications'

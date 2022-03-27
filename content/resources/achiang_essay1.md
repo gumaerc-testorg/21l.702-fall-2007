@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b68a4d4a-3b3b-4cbf-42a9-de5718ead455
 resourcetype: Document
 title: Hawthorne's Redefinition of the Market-place
 uid: d5897e01-b553-4df6-9c38-37b997141ec9

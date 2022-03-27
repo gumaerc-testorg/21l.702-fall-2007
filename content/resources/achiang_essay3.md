@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b68a4d4a-3b3b-4cbf-42a9-de5718ead455
 resourcetype: Document
 title: 'Adventures of Huckleberry Finn: A Boy''s Search for Family'
 uid: a8a85966-7b66-685e-eb00-c4eb6e2c4017

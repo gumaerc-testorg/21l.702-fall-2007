@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b68a4d4a-3b3b-4cbf-42a9-de5718ead455
 resourcetype: Document
 title: "From Trickster to Transgressor in Uncle Tom\u2019s Cabin and Benito Cereno"
 uid: d65bc3f8-27d2-503f-785e-d43d4fe4f6de
