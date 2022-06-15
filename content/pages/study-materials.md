@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of useful resources for the course along
+  descriptions and information on context.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
