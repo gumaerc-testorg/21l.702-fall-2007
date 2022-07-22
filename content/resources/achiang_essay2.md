@@ -6,6 +6,7 @@ file: /courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,5 +17,3 @@ title: 'Incidents in the Life of a Slave Girl: Addressing Emancipation and Its S
 uid: b1ce524b-ef7d-f881-aa94-cc37d89e399d
 ---
 Example of student work: "Incidents in the Life of a Slave Girl: Addressing Emancipation and Its Societal Implications" by Alice Chiang.
-
-

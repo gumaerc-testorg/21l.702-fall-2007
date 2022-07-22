@@ -6,6 +6,7 @@ file: /courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Adventures of Huckleberry Finn: A Boy''s Search for Family'
 uid: a8a85966-7b66-685e-eb00-c4eb6e2c4017
 ---
 Example of student work: "Adventures of Huckleberry Finn: A Boy's Search for Family" by Alice Chiang.
-

@@ -6,6 +6,7 @@ file: /courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "From Trickster to Transgressor in Uncle Tom\u2019s Cabin and Benito Cere
 uid: d65bc3f8-27d2-503f-785e-d43d4fe4f6de
 ---
 Example of student work: "From Trickster to Transgressor in Uncle Tom’s Cabin and Benito Cereno" by Kelly Chang.
-

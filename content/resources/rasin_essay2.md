@@ -6,6 +6,7 @@ file: /courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Racism, Slavery and Religion as \u201CMachinations and Deceptions\u201D 
 uid: d5e70fb0-c1c0-ceec-7270-6ccdd29c3c03
 ---
 Example of student work: "Racism, Slavery and Religion as 'Machinations and Deceptions' in Benito Cereno" by Boris Rasin.
-
