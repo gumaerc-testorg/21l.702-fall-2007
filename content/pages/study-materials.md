@@ -39,7 +39,7 @@ From Jack Lynch, Rutgers University: How you can tell an iamb from a dactyl!
 {{< tdclose >}}{{< tdopen >}}
 Nineteenth-century American books and periodicals from Cornell University's contribution to Making of America (MOA), a digital library of primary sources in American social history from the antebellum period through reconstruction.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[MLA citations](http://www.wisc.edu/writing/Handbook/DocMLA.html)
+[MLA citations](https://writing.wisc.edu/handbook/docmla/)
 {{< tdclose >}}{{< tdopen >}}
 From the University of Wisconsin-Madison Writing Center
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
@@ -79,7 +79,7 @@ Abstract: "Cox illustrates how colonial plots constructed by men and women frequ
 {{< tdclose >}}{{< tdopen >}}
 Images of the early American frontier, from the University of Virginia American Studies site; includes an excerpt from *Hobomok*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Smith, Henry Nash. [The Virgin Land](http://xroads.virginia.edu/~HYPER/HNS/hns_home.html).
+Smith, Henry Nash. [The Virgin Land](https://www.academia.edu/51291520/Virgin_Land_Henry_Nash_Smith_1950).
 {{< tdclose >}}{{< tdopen >}}
 Originally published in 1950, this book articulates the dominant "frontier thesis" of American literature in the 20th century. Talks about treatments of Native Americans and the advancing frontier in a number of (mostly male) authors. Includes interesting links. From the University of Virginia Hypertexts archive.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
