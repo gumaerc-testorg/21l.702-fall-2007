@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: \"Incidents in the Life of a Slave Girl: Addressing\
   \ Emancipation and Its Societal Implications\" by Alice Chiang.\r\n"
-file: /courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007/b1ce524bef7df881aa94cc37d89e399d_achiang_essay2.pdf
+file: /ol-ocw-studio-app/courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007/b1ce524bef7df881aa94cc37d89e399d_achiang_essay2.pdf
 file_size: 92049
 file_type: application/pdf
 learning_resource_types:
