@@ -145,7 +145,7 @@ Wilson, Christopher P. "Tempests and Teapots: Harriet Beecher Stowe's The Minist
 {{< tdclose >}}{{< tdopen >}}
 A fabulous resource! Scholarly and complete. Even has a recording of his voice!
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Walt Whitman electronic texts](http://etext.virginia.edu/whitman/)
+[Walt Whitman electronic texts](https://whitmanarchive.org/published-writings)
 {{< tdclose >}}{{< tdopen >}}
 From the University of Virginia Library
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
@@ -155,7 +155,7 @@ From the University of Virginia Library
 {{< tdclose >}}{{< tdopen >}}
 Web site for the Ken Burns film with "scrapbook" materials.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Mark Twain in His Times](http://etext.lib.virginia.edu/railton/index2.html)
+[Mark Twain in His Times](https://twain.lib.virginia.edu/index2.html)
 {{< tdclose >}}{{< tdopen >}}
 Web site by Stephen Railton, University of Virginia
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
