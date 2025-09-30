@@ -15,37 +15,37 @@ DESCRIPTIONS AND CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **General**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[MIT Online Writing and Communication Center](http://web.mit.edu/writing/)
+{{% resource_link "2b2f2a88-f396-4c3a-9f27-38e860786b5b" "MIT Online Writing and Communication Center" %}}
 {{< tdclose >}}{{< tdopen >}}
 Information on MLA form for citation and the MIT style manual.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[The Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
+{{% resource_link "a74ffdc2-a373-41ed-b328-85a0bf8d9f6d" "The Mayfield Handbook of Technical and Scientific Writing" %}}
 {{< tdclose >}}{{< tdopen >}}
 Information and writing and citations.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Oxford English Dictionary](http://www.oed.com/)
+{{% resource_link "6de130d0-14ac-48a3-a223-f1031616beda" "Oxford English Dictionary" %}}
 {{< tdclose >}}{{< tdopen >}}
 Available online for MIT community and at many libraries
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Searchable Bible](http://bible.crosswalk.com/)
+{{% resource_link "beb97df5-c0d8-4725-b37b-e83dca96795e" "Searchable Bible" %}}
 {{< tdclose >}}{{< tdopen >}}
 Preferred Search: in the "*using:*" drop-down menu, select "Standard Translations: King James Version"
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Glossary of Literary and Rhetorical Terms](https://mcl.as.uky.edu/cla-glossary-rhetorical-terms)
+{{% resource_link "2a02e2a4-eae1-4c37-bdbf-5726219c2b2d" "Glossary of Literary and Rhetorical Terms" %}}
 {{< tdclose >}}{{< tdopen >}}
 From Jack Lynch, Rutgers University: How you can tell an iamb from a dactyl!
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Making of America](http://cdl.library.cornell.edu/moa/)
+{{% resource_link "34ea265e-7521-42de-9f80-3649d1aa4de5" "Making of America" %}}
 {{< tdclose >}}{{< tdopen >}}
 Nineteenth-century American books and periodicals from Cornell University's contribution to Making of America (MOA), a digital library of primary sources in American social history from the antebellum period through reconstruction.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[MLA citations](https://writing.wisc.edu/handbook/docmla/)
+{{% resource_link "94d476da-5b4d-4112-80c4-4e29675b3254" "MLA citations" %}}
 {{< tdclose >}}{{< tdopen >}}
 From the University of Wisconsin-Madison Writing Center
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Mary Rowlandson**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Rowlandson, Mary. [*The Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson*](http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=851).
+Rowlandson, Mary. {{% resource_link "3fcfe4aa-a601-4a96-9a65-15a870149007" "*The Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson*" %}}.
 {{< tdclose >}}{{< tdopen >}}
 Compilation of downloadable texts from various sources.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -75,55 +75,55 @@ Cox, James H. "The Power of Sympathy: European American Women Novelists Imagine 
 {{< tdclose >}}{{< tdopen >}}
 Abstract: "Cox illustrates how colonial plots constructed by men and women frequently diverge and, then, clearly reconverge to culminate in Native American absence. The consistent creation of Indians by women and men in order to author them into absence suggests there are narrative or imaginative limitations to sympathy as a mode of resistance to colonialism."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Pertinent Texts and Images in the 19th Century](http://twain.lib.virginia.edu/projects/rissetto/pertinent.html)
+{{% resource_link "12b1b13c-d468-4997-b7cd-74f1a0d80be1" "Pertinent Texts and Images in the 19th Century" %}}
 {{< tdclose >}}{{< tdopen >}}
 Images of the early American frontier, from the University of Virginia American Studies site; includes an excerpt from *Hobomok*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Smith, Henry Nash. [The Virgin Land](https://www.academia.edu/51291520/Virgin_Land_Henry_Nash_Smith_1950).
+Smith, Henry Nash. {{% resource_link "f9683d02-f495-4c2e-bad3-25c208392b25" "The Virgin Land" %}}.
 {{< tdclose >}}{{< tdopen >}}
 Originally published in 1950, this book articulates the dominant "frontier thesis" of American literature in the 20th century. Talks about treatments of Native Americans and the advancing frontier in a number of (mostly male) authors. Includes interesting links. From the University of Virginia Hypertexts archive.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[James Fenimore Cooper](http://www.wsu.edu/~campbelld/amlit/cooper.htm)
+{{% resource_link "124b02b9-f415-4f3a-8760-ebf16584859e" "James Fenimore Cooper" %}}
 {{< tdclose >}}{{< tdopen >}}
 Cooper page at Dr. Donna Campbell's *American Authors* site. His novels represented to Child and her readers the dominant thinking about race and the frontier in America—and are mentioned immediately in Child's Preface.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Catherine Maria Sedgwick](http://www.wsu.edu/~campbelld/amlit/sedgwick.htm)
+{{% resource_link "a935c9ef-d706-4f8b-93e9-459d62a960ae" "Catherine Maria Sedgwick" %}}
 {{< tdclose >}}{{< tdopen >}}
 Sedgwick page at Dr. Donna Campbell's *American Authors* site. The other author often mentioned with Child, Sedgwick wrote *Hope Leslie* in 1827, another book showing romance across the color line.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Psalm 88](http://www.biblegateway.com/passage/?search=Psalm%2088;&version=47;)
+{{% resource_link "0f24ec38-32a3-47d3-a7ad-d82ae8b46b76" "Psalm 88" %}}
 {{< tdclose >}}{{< tdopen >}}
 Mr. Conant reads this on the death of his wife (p. 111).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Nathaniel Hawthorne**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Nathaniel Hawthorne](http://www.wsu.edu/~campbelld/amlit/hawthor.htm)
+{{% resource_link "eb632b8e-7d05-4441-96fb-f115a9624f0e" "Nathaniel Hawthorne" %}}
 {{< tdclose >}}{{< tdopen >}}
 Hawthorne page at Dr. Donna Campbell's *American Authors* site.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Hawthorne in Salem](http://www.hawthorneinsalem.org/)
+{{% resource_link "c5fca251-eb63-407b-96ca-d3293dc8f750" "Hawthorne in Salem" %}}
 {{< tdclose >}}{{< tdopen >}}
 Web site by North Shore Community College with the Peabody Essex Museum, House of the Seven Gables Historic Site, and the Salem Maritime National Historic Site.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[American Transcendentalism Web](http://www.vcu.edu/engweb/transcendentalism/index.html)
+{{% resource_link "82417e3c-966b-4df0-8ac9-1aca990f36c6" "American Transcendentalism Web" %}}
 {{< tdclose >}}{{< tdopen >}}
 Web site hosted by Virginia Commonwealth University.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[American Transcendentalism](https://public.wsu.edu/~campbelld/amlit/amtrans.htm)
+{{% resource_link "218b6974-556a-46bd-b64c-c4a609fb31ec" "American Transcendentalism" %}}
 {{< tdclose >}}{{< tdopen >}}
 From Dr. Donna Campbell's *American Authors* site.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Harriet Beecher Stowe**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Uncle Tom's Cabin and American Culture](https://utc.iath.virginia.edu/)
+{{% resource_link "e39f6060-edd6-4de4-9465-5e817ee7633d" "Uncle Tom's Cabin and American Culture" %}}
 {{< tdclose >}}{{< tdopen >}}
 Multimedia archive directed by Stephen Railton, University of Virginia.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Stowe texts online](http://digital.library.upenn.edu/women/_generate/authors-S.html)
+{{% resource_link "30fec002-79ad-4520-a8d3-bdba4604be62" "Stowe texts online" %}}
 {{< tdclose >}}{{< tdopen >}}
 From Web site *A Celebration of Women Writers*; scroll down to "Stowe."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Harriet Beecher Stowe](http://www.wsu.edu/~campbelld/amlit/stowe.htm)
+{{% resource_link "b69e8f77-dad2-4725-a4bb-3c016a2521d9" "Harriet Beecher Stowe" %}}
 {{< tdclose >}}{{< tdopen >}}
 Stowe page at Dr. Donna Campbell's *American Authors* site.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -141,29 +141,29 @@ Wilson, Christopher P. "Tempests and Teapots: Harriet Beecher Stowe's The Minist
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Walt Whitman**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[The Walt Whitman Archive](http://www.whitmanarchive.org/)
+{{% resource_link "41e29508-a5d8-4c85-b788-57d799e8a0f3" "The Walt Whitman Archive" %}}
 {{< tdclose >}}{{< tdopen >}}
 A fabulous resource! Scholarly and complete. Even has a recording of his voice!
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Walt Whitman electronic texts](https://whitmanarchive.org/published-writings)
+{{% resource_link "9dc38a54-3253-45b1-96f0-10c44960fe3b" "Walt Whitman electronic texts" %}}
 {{< tdclose >}}{{< tdopen >}}
 From the University of Virginia Library
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Samuel Clemens / Mark Twain**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[PBS: Mark Twain](http://www.pbs.org/marktwain/index.html)
+{{% resource_link "09fa1fcc-625a-47c1-b08e-e56a6124814c" "PBS: Mark Twain" %}}
 {{< tdclose >}}{{< tdopen >}}
 Web site for the Ken Burns film with "scrapbook" materials.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Mark Twain in His Times](https://twain.lib.virginia.edu/index2.html)
+{{% resource_link "e9b75470-7143-42d6-a5c0-1d9047142018" "Mark Twain in His Times" %}}
 {{< tdclose >}}{{< tdopen >}}
 Web site by Stephen Railton, University of Virginia
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[American Authors: Mark Twain](http://www.wsu.edu/~campbelld/amlit/twain.htm)
+{{% resource_link "e867971d-cb9f-41de-9c0b-4a62d83e904a" "American Authors: Mark Twain" %}}
 {{< tdclose >}}{{< tdopen >}}
 Compiliation of resources by Dr. Donna Campbell, Washington State University.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Mark Twain House and Museum](http://www.marktwainhouse.org/)
+{{% resource_link "2704d8a9-95ce-4446-abec-1c8800b3931e" "Mark Twain House and Museum" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
